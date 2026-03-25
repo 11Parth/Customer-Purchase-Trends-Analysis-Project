@@ -1,6 +1,5 @@
 <h1>Customer Trends Data Analysis</h1>
 <br>
-<br>
 This project focuses on analyzing customer data to identify trends, patterns, and insights that support data-driven decision-making. The dataset includes customer demographics, purchasing behavior, and transaction history.
 <br>
 <br>
